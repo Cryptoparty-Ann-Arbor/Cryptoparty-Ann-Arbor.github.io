@@ -1,3 +1,5 @@
+# Cryptoparty Ann Arbor Pages
+
 This will be the github pages repo for cryptoparty ann arbor.
 
 This lets us have a web presence besides cryptoparty.in, which gives us:
@@ -5,3 +7,10 @@ This lets us have a web presence besides cryptoparty.in, which gives us:
 2) greater control over website
 3) minimal cost hosting+maintenance
 4) ability to use awesome a2crypto.party url
+
+## Jekyll
+
+This uses Jekyll so things look nice and are easy to manage. To
+get started with Jekyll, just check out the 
+[github pages quick guide](https://help.github.com/articles/using-jekyll-with-pages/).
+
