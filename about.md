@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Cryptoparty Ann Arbor is a community of privacy-minded educators, techies, and enthusiasts
+working to help you reclaim your privacy. We educate the public on how privacy
+is impacted in the digital age, and how they can better protect themselves. Freely offering
+informal training and assistance, we want to empower you to more fully live your life as you see fit.
+We put people first, and see within technology the potential for liberatory social change.

@@ -7,13 +7,9 @@
 
 # Site settings
 title: Cryptoparty Ann Arbor
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Party like it's 1984.
-
-  Cryptoparty Ann Arbor is a group of privacy-minded educators,
-  techies, and enthusiasts. We're here to help you keep your privacy
-  in the modern age.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://a2crypto.party" # the base hostname & protocol for your site
 twitter_username: CryptopartyAA
