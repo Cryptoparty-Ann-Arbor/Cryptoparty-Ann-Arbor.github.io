@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Introducing Cryptoparty!"
 date:   2016-02-09 21:02:39 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello and welcome to Cryptoparty Ann Arbor!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Since 2015 we've been holding monthly cryptoparties and special events to educate the public on how their privacy
+is impacted in the digital age, and how they can better protect themselves. If you care about your
+privacy, have your own advice you'd like to share, or are simply curious, we encourage you to attend
+a meeting!
 
-Jekyll also offers powerful support for code snippets:
+Monthly meetings are currently held every 2nd Saturday of the month, at 4pm in [All Hands Active][aha],
+Ann Arbor's premier downtown hackerspace/makerspace. Meetings are entirely free and open to the public,
+so bring a laptop and a friend!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[aha]: http://www.allhandsactive.org/
