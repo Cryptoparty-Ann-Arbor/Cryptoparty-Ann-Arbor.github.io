@@ -1,9 +1,11 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "technical education for social liberation"
+tags: [cryptoparty, ann arbor, privacy, cryptography, activism]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: ann-arbor-snow-landscape-shrunk.png
+  credit: zandi
+share: false
 ---
+
+This is a test. Is this content placed in the page?

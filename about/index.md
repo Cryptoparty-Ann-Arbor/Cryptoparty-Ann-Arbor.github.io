@@ -1,25 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About
+tags: [about, cryptoparty, ann arbor, privacy, cryptography, activism]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: ann-arbor-snow-landscape-shrunk.png
+  credit: zandi
+share: false
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Cryptoparty Ann Arbor is a community of privacy-minded educators, techies, activists, and enthusiasts working to help you reclaim your privacy.
+We put people first, and see within technology the potential for liberatory social change.
 
-## Minimal Mistakes is all about:
+## Cryptoparty is all about:
+* Educating the public on privacy issues in the digital age.
+* Informal training and assistance to empower people to live their lives as they see fit.
+* Fighting back against privacy intrusions, from greedy corporations to nosey government bureaus.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+Whether you're simply curious or want to start a technical revolution, we encourage you to get in touch with us physically or electronically.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+[Mailing List](https://www.autistici.org/mailman/listinfo/cryptoparty-ann-arbor) -- The official cryptoparty mailing list. To join, add your email, set a password, and answer the confirmation email. \\
+[Twitter](https://twitter.com/CryptopartyAA) -- You can also stay up to date with us on Twitter! \\
+[Github](https://github.com/Cryptoparty-Ann-Arbor) -- Check out our projects, or help us code. \\
+[cryptoparty.in](https://www.cryptoparty.in/ann_arbor) -- Backup site for announcements and general info. \\
+[Meetup](http://www.meetup.com/AllHandsActive/) -- Monthly cryptoparties are also announced on All Hands Active's Meetup page.

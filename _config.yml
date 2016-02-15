@@ -2,8 +2,7 @@
 
 title:            Cryptoparty Ann Arbor
 locale:           en_US
-#url:              https://a2crypto.party
-url:              http://localhost:4000
+url:              https://cryptoparty-ann-arbor.github.io
 
 
 # Jekyll configuration
@@ -42,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Cryptoparty Ann Arbor
+  avatar: cryptoparty-generic-logo-badge.png
+  bio: "Party like it's 1984"
   email:
   disqus-shortname:
   twitter: CryptopartyAA
