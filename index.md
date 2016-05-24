@@ -9,9 +9,7 @@ share: false
 ---
 
 ## Next Events
-* **General Meeting** -- May 14th at 4pm in [All Hands Active][aha],
-525 E. Liberty, Ann Arbor.
-* **General Meeting** -- June 11th at 4pm in [All Hands Active][aha],
-525 E. Liberty, Ann Arbor.
+* **General Meeting** -- July 14th at 4pm in [All Hands Active][aha],
+255 E Liberty, Suite 225 (Lower Level)
 
 [aha]: http://www.allhandsactive.org/
