@@ -9,7 +9,9 @@ share: false
 ---
 
 ## Next Events
-* **General Meeting** -- July 9th at 4pm in [All Hands Active][aha],
+* **General Meeting** -- September 10th at 4pm in [All Hands Active][aha],
+255 E Liberty, Suite 225 (Lower Level)
+* **General Meeting** -- October 8th at 4pm in [All Hands Active][aha],
 255 E Liberty, Suite 225 (Lower Level)
 
 [aha]: http://www.allhandsactive.org/
