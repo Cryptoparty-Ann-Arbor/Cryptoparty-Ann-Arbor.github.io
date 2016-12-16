@@ -9,11 +9,11 @@ share: false
 ---
 
 ## Next Events
-* **General Meeting** -- December 10th at 4pm in [All Hands Active][aha],
-255 E Liberty, Suite 225 (Lower Level)
 * **General Meeting** -- January 14th at 4pm in [All Hands Active][aha],
 255 E Liberty, Suite 225 (Lower Level)
 * **General Meeting** -- February 11th at 4pm in [All Hands Active][aha],
+255 E Liberty, Suite 225 (Lower Level)
+* **General Meeting** -- March 11th at 4pm in [All Hands Active][aha],
 255 E Liberty, Suite 225 (Lower Level)
 
 [aha]: http://www.allhandsactive.org/
