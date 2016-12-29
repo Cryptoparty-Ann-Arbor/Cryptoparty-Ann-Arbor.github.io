@@ -9,6 +9,8 @@ share: false
 ---
 
 ## Next Events
+* **No Gods, No Servers - Decentralized Darknet Communication on Freenet** -- January 4th at 7pm in [All Hands Active][aha],
+255 E Liberty, Suite 225 (Lower Level)
 * **General Meeting** -- January 14th at 4pm in [All Hands Active][aha],
 255 E Liberty, Suite 225 (Lower Level)
 * **General Meeting** -- February 11th at 4pm in [All Hands Active][aha],
