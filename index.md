@@ -9,10 +9,9 @@ share: false
 ---
 
 ## Next Events
-* **General Meeting** -- February 11th at 4pm in [All Hands Active][aha],
+* **General Meeting** -- April 8th at 4pm in [All Hands Active][aha],
 255 E Liberty, Suite 225 (Lower Level)
-* **General Meeting** -- March 11th at 4pm in [All Hands Active][aha],
-255 E Liberty, Suite 225 (Lower Level)
-* **General Meeting** -- April 8th, location TBD
+* **General Meeting** -- May 13th, Location TBD
+* **General Meeting** -- June 10th, Location TBD
 
 [aha]: http://www.allhandsactive.org/
