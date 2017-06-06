@@ -9,9 +9,9 @@ share: false
 ---
 
 ## Next Events
-* **General Meeting** -- May 13th at 4pm in [All Hands Active][aha],
+* **General Meeting** -- June 10th at 4pm in [All Hands Active][aha],
 -255 E Liberty, Suite 225 (Lower Level)
-* **General Meeting** -- June 10th, Location TBD
 * **General Meeting** -- July 8th, Location TBD
+* **General Meeting** -- August 12th, Location TBD
 
 [aha]: http://www.allhandsactive.org/
