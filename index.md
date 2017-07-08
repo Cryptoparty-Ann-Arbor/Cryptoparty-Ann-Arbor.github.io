@@ -9,11 +9,10 @@ share: false
 ---
 
 ## Next Events
-* **General Meeting** -- July 8th at 4pm in [All Hands Active][aha],
-- 255 E Liberty, Suite 225 (Lower Level)
 * **General Meeting** -- August 12th at [Cultivate][cultivate],
 - 307 N River St, Ypsilanti MI 48198
 * **General Meeting** -- September 9th, Location TBD
+* **General Meeting** -- October 14th, Location TBD
 
 [aha]: http://www.allhandsactive.org/
 [cultivate]: https://www.cultivateypsi.com/
