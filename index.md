@@ -16,3 +16,5 @@ share: false
 
 [aha]: http://www.allhandsactive.org/
 [cultivate]: https://www.cultivateypsi.com/
+
+{% include battleforthenet-widget.html %}
