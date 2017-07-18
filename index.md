@@ -9,8 +9,8 @@ share: false
 ---
 
 ## Next Events
-* **Privacy Cafe** -- August 12th at [Cultivate][cultivate],
-- 307 N River St, Ypsilanti MI 48198
+* **Privacy Cafe** -- August 12th at 4pm at [Cultivate][cultivate],
+ 307 N River St, Ypsilanti MI 48198
 * **General Meeting** -- September 9th, Location TBD
 * **General Meeting** -- October 14th, Location TBD
 
