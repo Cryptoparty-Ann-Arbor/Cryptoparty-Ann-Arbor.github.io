@@ -9,9 +9,10 @@ share: false
 ---
 
 ## Next Events
-* **Privacy Workshop** -- September 9th at 4pm, at [All Hands Active][aha],
+* **Privacy Workshop** -- October 14th, at [All Hands Active][aha],
  255 E. Liberty St. Suite 225, Ann Arbor
-* **General Meeting** -- October 14th, Location TBD
-* **General Meeting** -- November 11th, Location TBD
+* **Privacy Cafe** -- November 11th, at [Ziggy's][ziggys], 
+ 206 W. Michigan Ave., Ypsilanti
 
 [aha]: http://www.allhandsactive.org/
+[ziggys]: http://ziggysypsi.com
