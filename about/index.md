@@ -35,4 +35,5 @@ learn about privacy technology, meet other like-minded people, brainstorm new sy
 current issues and events.
 
 Meetings are every 2nd Saturday of the month at 4pm and usually in [All Hands Active](http://www.allhandsactive.org/): 255 E. Liberty St. Suite 225, Ann Arbor, MI
+
 Go down to the basement between Nagomi Sushi and Underground Sounds, make a left, then a right through the glass doors.
