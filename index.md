@@ -9,8 +9,8 @@ share: false
 ---
 
 ## Next Events
-* **Privacy Cafe** -- November 11th, 4pm, at [Ziggy's][ziggys],
- 206 W. Michigan Ave., Ypsilanti
+* **Privacy Cafe** -- December 9th, 4pm, at [All Hands Active][aha],
+ 255 E. Liberty St. Suite 225, Ann Arbor
 
 [aha]: http://www.allhandsactive.org/
 [ziggys]: http://ziggysypsi.com
