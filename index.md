@@ -9,8 +9,9 @@ share: false
 ---
 
 ## Next Events
-* **Privacy Cafe** -- December 9th, 4pm, at [All Hands Active][aha],
- 255 E. Liberty St. Suite 225, Ann Arbor
+* **"Trouble" ep. 5 viewing: 'You Are Being Watched'** -- January 17th, 6pm, at [Ann Arbor District Library's][aadl] Freespace, downtown branch, 3rd floor
+ 343 South Fifth Avenue, Ann Arbor
 
 [aha]: http://www.allhandsactive.org/
 [ziggys]: http://ziggysypsi.com
+[aadl]: https://aadl.org/
