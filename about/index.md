@@ -22,7 +22,8 @@ We put people first, and see within technology the potential for liberatory soci
 Whether you're simply curious or want to start a technical revolution, we encourage you to get in touch with us physically or electronically.
 The only time conditions change is when we band together to change them.
 
-[Mailing List](https://www.autistici.org/mailman/listinfo/cryptoparty-ann-arbor) -- The official cryptoparty mailing list. To join, add your email, set a password, and answer the confirmation email. \\
+[cryptoparty-a2-announce](https://riseup.net/en/lists/list-user/subscribing#how-do-i-subscribe-to-a-list) -- Announcements Only! Instructions at the link should be followed, with "cryptoparty-a2-announce" as the list name. \\
+[Discussion List](https://www.autistici.org/mailman/listinfo/cryptoparty-ann-arbor) -- The official cryptoparty discussion list. To join, add your email, set a password, and answer the confirmation email. \\
 [Twitter](https://twitter.com/CryptopartyAA) -- You can also stay up to date with us on Twitter! \\
 [Facebook](https://facebook.com/a2cryptoparty) -- Obligatory Facebook \\
 [Github](https://github.com/Cryptoparty-Ann-Arbor) -- Check out our projects, or help us code. \\
