@@ -9,9 +9,10 @@ share: false
 ---
 
 ## Next Events
- * **Privacy Workshop** -- February 10th, 4:00PM - 5:30PM, at [Ann Arbor District Library's][aadlevent] Secret Lab, downtown branch, downstairs.
+ * **Privacy Workshop** -- February 10th, 4:00PM - 5:30PM, at [Ann Arbor District Library][aadl]'s Secret Lab, downtown branch, downstairs.
  343 South Fifth Avenue, Ann Arbor
- [Facebook Event][facebookevent]
+   * [Facebook Event][facebookevent]
+   * [AADL Event][aadlevent]
  
 
 [aha]: http://www.allhandsactive.org/
