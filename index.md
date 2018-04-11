@@ -9,14 +9,14 @@ share: false
 ---
 
 ## Next Events
- * **Privacy Workshop** -- February 10th, 4:00PM - 5:30PM, at [Ann Arbor District Library][aadl]'s Secret Lab, downtown branch, downstairs.
- 343 South Fifth Avenue, Ann Arbor
-   * [Facebook Event][facebookevent]
-   * [AADL Event][aadlevent]
+ * **Social Night** -- April 14th, 7:00pm - ???, [Old Town Tavern][oldtown].
+ 122 W. Liberty Road, Ann Arbor
  
 
 [aha]: http://www.allhandsactive.org/
 [ziggys]: http://ziggysypsi.com
 [aadl]: https://aadl.org/
+[oldtown]: http://oldtownaa.com/
+
 [facebookevent]: https://www.facebook.com/events/140211433332985/
 [aadlevent]: https://aadl.org/node/370824
