@@ -9,8 +9,8 @@ share: false
 ---
 
 ## Next Events
- * **Social Night** -- April 14th, 7:00pm - ???, [Old Town Tavern][oldtown].
- 122 W. Liberty Road, Ann Arbor
+ * **Privacy Workshop: Slaying the Facebook Vampire** -- Saturday June 9th, 3:00pm - 5:00pm, [Downtown Library: Secret Lab][aadlevent].
+ 343 South Fifth Ave, Ann Arbor
  
 
 [aha]: http://www.allhandsactive.org/
@@ -19,4 +19,4 @@ share: false
 [oldtown]: http://oldtownaa.com/
 
 [facebookevent]: https://www.facebook.com/events/140211433332985/
-[aadlevent]: https://aadl.org/node/370824
+[aadlevent]: https://aadl.org/node/372209
