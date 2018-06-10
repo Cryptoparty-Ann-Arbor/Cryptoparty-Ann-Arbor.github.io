@@ -9,8 +9,7 @@ share: false
 ---
 
 ## Next Events
- * **Privacy Workshop: Slaying the Facebook Vampire** -- Saturday June 9th, 3:00pm - 5:00pm, [Downtown Library: Secret Lab][aadlevent].
- 343 South Fifth Ave, Ann Arbor
+ * **To Be Announced**
  
 
 [aha]: http://www.allhandsactive.org/
