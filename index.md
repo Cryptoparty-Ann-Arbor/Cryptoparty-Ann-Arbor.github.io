@@ -9,7 +9,7 @@ share: false
 ---
 
 ## Next Events
- * [**Aaron Swartz Day**, Sunday November 11th at 2pm at the Ann Arbor District Library][aadlevent]
+ * [**Aaron Swartz Day** -- Sunday November 11th, 2pm - 5pm, at the Ann Arbor District Library][aadlevent]
  
 
 [aha]: http://www.allhandsactive.org/
