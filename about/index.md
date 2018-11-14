@@ -29,7 +29,7 @@ The only time conditions change is when we band together to change them.
 [Github](https://github.com/Cryptoparty-Ann-Arbor) -- Check out our projects, or help us code. \\
 [cryptoparty.in](https://www.cryptoparty.in/ann_arbor) -- Backup site for announcements and general info. \\
 [we.riseup.net (crabgrass)](https://we.riseup.net/a2cryptoparty) -- Our we.riseup.net crabgrass powered site \\
-[Meetup](http://www.meetup.com/AllHandsActive/) -- Monthly cryptoparties are also announced on All Hands Active's Meetup page.
+[Meetup](https://www.meetup.com/AllHandsActive/) -- Monthly cryptoparties are also announced on All Hands Active's Meetup page.
 
 ## Monthly Meetup
 We hold monthly meetings, open to the public and free for all. This is a great opportunity to

@@ -20,7 +20,7 @@ so bring a laptop and a friend!
 ## The Website
 
 Since this is a first post, I'll describe the site some. We have a vanity
-domain of [a2crypto.party](http://a2crypto.party) directed to a github page
+domain of [a2crypto.party](https://a2crypto.party) directed to a github page
 associated with the Cryptoparty Ann Arbor github organization. This gives
 us relatively easy hosting with free HTTPS, and version control for
 a mature production/development separation allowing for contribution from

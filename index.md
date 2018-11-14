@@ -13,7 +13,7 @@ share: false
  
 
 [aha]: http://www.allhandsactive.org/
-[ziggys]: http://ziggysypsi.com
+[ziggys]: https://www.facebook.com/ziggysypsi
 [aadl]: https://aadl.org/
 [oldtown]: http://oldtownaa.com/
 

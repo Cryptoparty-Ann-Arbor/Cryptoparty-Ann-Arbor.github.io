@@ -2,7 +2,7 @@
 
 title:            Cryptoparty Ann Arbor
 locale:           en_US
-url:              https://cryptoparty-ann-arbor.github.io
+url:              https://a2crypto.party
 
 
 # Jekyll configuration
@@ -56,7 +56,7 @@ owner:
     ad-slot:
   bing-verify:
   github: Cryptoparty-Ann-Arbor
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username   from a "https://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
