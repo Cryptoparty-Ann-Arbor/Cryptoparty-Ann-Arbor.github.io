@@ -10,6 +10,7 @@ share: false
 
 ## Next Events
  * CryptoParty Meetup - Monday 7/15/2019 7PM @ [TinkerTech], 216 W Michigan Ave, Ypsilanti, MI 48197
+ <br />Official [Facebook Event Link]
 
 [aha]: http://www.allhandsactive.org/
 [ziggys]: https://www.facebook.com/ziggysypsi
@@ -17,6 +18,7 @@ share: false
 [oldtown]: http://oldtownaa.com/
 [TinkerTech]: http://tinkertech.io
 
+[Facebook Event Link]: https://www.facebook.com/events/320788725538139/
 [facebookevent]: https://www.facebook.com/events/140211433332985/
 [aadlevent]: https://aadl.org/internetsownboy
 
