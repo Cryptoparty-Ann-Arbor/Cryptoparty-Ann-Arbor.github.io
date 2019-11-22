@@ -14,7 +14,7 @@ These events are part of our new EFF SEC Lessons Workshop Series; please see ["W
  * [Phishing and Malware](https://aadl.org/node/398853) - Sunday, February 16, 2020: 2:00pm to 4:00pm @ [Ann Arbor District Library Downtown](https://aadl.org/aboutus/downtown) (343 South Fifth Avenue, Ann Arbor, MI 48104) in the Secret Lab
  * [Locking Down Social Media](https://aadl.org/node/398854) - Sunday, March 15, 2020: 2:00pm to 4:00pm @ [Ann Arbor District Library Westgate Branch](https://aadl.org/aboutus/westgate) (2503 Jackson Ave, Ann Arbor, MI 48103, USA) in the TBD (To Be Determined)
 
-Note: The links are valid, but they may take you to a login page until the event is fully posted!
+Note: The titles are valid links (hard to see, sorry!), and they may take you to a login page until the event is fully posted!
 
 [aha]: http://www.allhandsactive.org/
 [ziggys]: https://www.facebook.com/ziggysypsi
