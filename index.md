@@ -9,7 +9,7 @@ share: false
 ---
 
 ## Next Events
-Due to COVID-19 we are indefinintely postponing any further in-person events. <br>
+Due to COVID-19 we are indefinitely postponing any further in-person events. <br>
 We are looking into Webinar options for our Workshops. <br>
 Please use the contact methods on our [About](/about) page to stay updated.
 
