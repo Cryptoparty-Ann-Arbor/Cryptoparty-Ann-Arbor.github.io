@@ -24,7 +24,7 @@ Password: 162542</p>
 [Facebook Event Link][Facebook Event Link] <br />
 [Tweet][Tweet]
 
-Note: Links are not visible but they work!
+Note: the links may be hard to see but they work!
 
 [aha]: http://www.allhandsactive.org/
 [aadl]: https://aadl.org/
