@@ -13,9 +13,11 @@ Digital Privacy during COVID-19 <br />
 Sunday, May 17, 2020 at 2 PM – 4 PM <br />
 <p>Learn about COVID-19 resources in your community and basic steps you can take for your Digital Privacy during and after the stay-at-home order.</p>
 
-[Join Zoom Meeting](https://us02web.zoom.us/j/86986796536?pwd=TzJiUW1IOVhyN0tUTmRscWtIeW9mQT09)
+[Join Zoom Meeting Link](https://us02web.zoom.us/j/86986796536?pwd=TzJiUW1IOVhyN0tUTmRscWtIeW9mQT09)
 
-<p>Meeting ID: 869 8679 6536 <br />
+<p>
+https://join.zoom.us <br />
+Meeting ID: 869 8679 6536 <br />
 Password: 162542</p>
 
 [Flyer][Flyer] <br />
