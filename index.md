@@ -10,7 +10,7 @@ share: false
 
 ## Next Events
 Digital Privacy during COVID-19 <br />
-Sunday, May 17, 2020 at 2 PM – 4 PM <br />
+Sunday, May 17, 2020 at 2 PM – 4 PM EST<br />
 <p>Learn about COVID-19 resources in your community and basic steps you can take for your Digital Privacy during and after the stay-at-home order.</p>
 
 [Join Zoom Meeting Link](https://us02web.zoom.us/j/86986796536?pwd=TzJiUW1IOVhyN0tUTmRscWtIeW9mQT09)
