@@ -9,22 +9,9 @@ share: false
 ---
 
 ## Next Events
-Digital Privacy during COVID-19 <br />
-Sunday, May 17, 2020 at 2 PM – 4 PM EST<br />
-<p>Learn about COVID-19 resources in your community and basic steps you can take for your Digital Privacy during and after the stay-at-home order.</p>
-
-[Join Zoom Meeting Link](https://us02web.zoom.us/j/86986796536?pwd=TzJiUW1IOVhyN0tUTmRscWtIeW9mQT09)
-
-<p>
-https://join.zoom.us <br />
-Meeting ID: 869 8679 6536 <br />
-Password: 162542</p>
-
-[Flyer][Flyer] <br />
-[Facebook Event Link][Facebook Event Link] <br />
-[Tweet][Tweet]
-
-Note: the links may be hard to see but they work!
+No Events Planned At This Time.
+Please Check Back Soon!
+See our About page for ways to stay informed.
 
 [aha]: http://www.allhandsactive.org/
 [aadl]: https://aadl.org/
