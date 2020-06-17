@@ -15,8 +15,7 @@ What you need to know in order to protect yourself and your Digital Privacy befo
 
 Sunday June 28th, 2020 2:00pm to 4:00pm
 
-Google Meet: </br> 
-https://meet.google.com/nin-kxey-vwd
+Google Meet: https://meet.google.com/nin-kxey-vwd
 
 [aha]: http://www.allhandsactive.org/
 [aadl]: https://aadl.org/
