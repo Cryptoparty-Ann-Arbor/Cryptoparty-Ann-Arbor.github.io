@@ -13,9 +13,13 @@ Digital Privacy & Protesting
 
 What you need to know in order to protect yourself and your Digital Privacy before, during, and after a Protest.
 
-Sunday June 28th, 2020 2:00pm to 4:00pm
+Sunday June 28th, 2020 2:00pm to 4:00pm EST
 
-Google Meet: https://meet.google.com/nin-kxey-vwd
+Google Meet:
+<br/>
+https://meet.google.com/nin-kxey-vwd
+
+[https://meet.google.com/nin-kxey-vwd]: https://meet.google.com/nin-kxey-vwd
 
 [aha]: http://www.allhandsactive.org/
 [aadl]: https://aadl.org/
