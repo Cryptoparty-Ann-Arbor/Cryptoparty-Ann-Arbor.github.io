@@ -9,15 +9,9 @@ share: false
 ---
 
 ## Next Events
-Digital Privacy & Protesting
-
-What you need to know in order to protect yourself and your Digital Privacy before, during, and after a Protest.
-
-Sunday June 28th, 2020 2:00pm to 4:00pm EST
-
-Google Meet:
-<br/>
-[https://meet.google.com/nin-kxey-vwd](https://meet.google.com/nin-kxey-vwd)
+No Events Planned.
+Please check back soon!
+See our About page for other ways to stay up to date.
 
 [aha]: http://www.allhandsactive.org/
 [aadl]: https://aadl.org/
