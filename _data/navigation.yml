@@ -9,14 +9,17 @@
 - title: About Face
   url: https://we.riseup.net/a2cryptoparty/about-face
 
-- title: Posts
-  url: /posts/
-
-- title: Links
-  url: https://we.riseup.net/a2cryptoparty/links
-
-- title: Archive
-  url: https://we.riseup.net/a2cryptoparty/workshops-trainings
-
 - title: Advocacy
   url: https://we.riseup.net/a2cryptoparty/advocacy-policy
+ 
+- title: Links
+  url: https://we.riseup.net/a2cryptoparty/links
+  
+- title: Surveillance
+  url: https://we.riseup.net/a2cryptoparty/surveillance-under-surveillance
+
+- title: Post Archive
+  url: /posts/
+
+- title: Workshop Archive
+  url: https://we.riseup.net/a2cryptoparty/workshops-trainings
