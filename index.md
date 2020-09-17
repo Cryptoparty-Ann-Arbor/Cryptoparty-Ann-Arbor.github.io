@@ -7,8 +7,6 @@ image:
   credit: zandi
 share: false
 ---
-## Home
-
 ## Next Events
 No Events Planned.
 Please check back soon!
