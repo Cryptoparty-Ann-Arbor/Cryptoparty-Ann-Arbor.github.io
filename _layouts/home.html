@@ -35,7 +35,7 @@
   <div id="index">
     <!-- Put content from index.md in here -->
 	{{ content }}
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+    <h3><a href="{{ site.url}}/posts/">Posts</a></h3>
     {% for post in site.posts limit:5 %}
     <article>
       {% if post.link %}
