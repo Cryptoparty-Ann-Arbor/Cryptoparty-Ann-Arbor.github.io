@@ -1,8 +1,5 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Events
   url: https://we.riseup.net/a2cryptoparty/events
   
@@ -18,8 +15,8 @@
 - title: Surveillance
   url: https://we.riseup.net/a2cryptoparty/surveillance-under-surveillance
 
+- title: Workshops
+  url: https://we.riseup.net/a2cryptoparty/workshops-trainings
+
 - title: Post Archive
   url: /posts/
-
-- title: Workshop Archive
-  url: https://we.riseup.net/a2cryptoparty/workshops-trainings
