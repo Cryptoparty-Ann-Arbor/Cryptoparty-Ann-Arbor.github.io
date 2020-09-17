@@ -37,4 +37,4 @@ We uphold these principles by fighting for transparency and freedom in culture, 
 Whether you're simply curious or want to start a technical revolution, we encourage you to get in touch with us physically or electronically.
 The only time conditions change is when we band together to change them.
 
-Link: https://we.riseup.net/a2cryptoparty/about#getting-involved
+Link: [https://we.riseup.net/a2cryptoparty/about#getting-involved](https://we.riseup.net/a2cryptoparty/about#getting-involved)
