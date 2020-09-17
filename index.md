@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 excerpt: "technical education for social liberation"
 tags: [cryptoparty, ann arbor, privacy, cryptography, activism]
 image:
@@ -7,6 +7,7 @@ image:
   credit: zandi
 share: false
 ---
+## Home
 ## Next Events
 No Events Planned.
 Please check back soon!
