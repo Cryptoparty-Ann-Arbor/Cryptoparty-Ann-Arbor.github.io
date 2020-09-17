@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 excerpt: "technical education for social liberation"
 tags: [cryptoparty, ann arbor, privacy, cryptography, activism]
 image:
@@ -36,12 +36,4 @@ We uphold these principles by fighting for transparency and freedom in culture, 
 ## Getting Involved
 Whether you're simply curious or want to start a technical revolution, we encourage you to get in touch with us physically or electronically.
 The only time conditions change is when we band together to change them.
-
-[cryptoparty-a2-announce](https://riseup.net/en/lists/list-user/subscribing#how-do-i-subscribe-to-a-list) -- Announcements Only! Instructions at the link should be followed, with "cryptoparty-a2-announce" as the list name. \\
-[Discussion List](https://www.autistici.org/mailman/listinfo/cryptoparty-ann-arbor) -- The official cryptoparty discussion list. To join, add your email, set a password, and answer the confirmation email. \\
-[Email](mailto:cryptopartyannarbor@riseup.net) - cryptopartyannarbor@riseup.net \\
-[Twitter](https://twitter.com/CryptopartyAA) -- You can also stay up to date with us on Twitter! \\
-[Facebook](https://facebook.com/a2cryptoparty) -- Obligatory Facebook \\
-[Github](https://github.com/Cryptoparty-Ann-Arbor) -- Check out our projects, or help us code. \\
-[cryptoparty.in](https://www.cryptoparty.in/ann_arbor) -- Backup site for announcements and general info. \\
-[we.riseup.net (crabgrass)](https://we.riseup.net/a2cryptoparty) -- Our we.riseup.net crabgrass powered site \\
+Link: https://we.riseup.net/a2cryptoparty/about#getting-involved
