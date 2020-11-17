@@ -12,11 +12,11 @@ share: false
 Thanksgiving Open Hours
 Sunday 11/22 at 2 PM EST – 4 PM EST
 
-Ask us anything! Are you considering any digital devices as gifts? Learn how to secure your existing and future devices, accounts, and life!
+Ask us anything! Are you considering any digital devices as gifts? Looking to get the best deal on Black Friday and/or Cyber Monday? Learn how to secure your existing and future devices, accounts, and life!
 
 Zoom Link coming soon.
 
-[Facebook Event Link](fb.me/e/3s8parbCx)
+[Facebook Event Link](https://fb.me/e/3s8parbCx)
 
 ## About
 
