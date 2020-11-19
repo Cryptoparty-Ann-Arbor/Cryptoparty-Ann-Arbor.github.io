@@ -14,7 +14,7 @@ Sunday 11/22 at 2 PM EST – 4 PM EST
 
 Ask us anything! Are you considering any digital devices as gifts? Looking to get the best deal on Black Friday and/or Cyber Monday? Learn how to secure your existing and future devices, accounts, and life!
 
-Zoom Link coming soon.
+[Zoom Link](https://us02web.zoom.us/j/86342984718)
 
 [Facebook Event Link](https://fb.me/e/3s8parbCx)
 
