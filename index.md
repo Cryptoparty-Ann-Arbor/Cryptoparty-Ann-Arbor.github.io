@@ -16,6 +16,10 @@ Ask us anything! Are you considering any digital devices as gifts? Looking to ge
 
 [Zoom Link](https://us02web.zoom.us/j/86342984718)
 
+Zoom Pro is generously provided by All Hands Active. <br />
+Please Donate if you can:
+https://allhandsactive.org/donate
+
 [Facebook Event Link](https://fb.me/e/3s8parbCx)
 
 ## About
