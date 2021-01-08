@@ -8,8 +8,8 @@ image:
 share: false
 ---
 ## Home
-## Next Events
-No Events Planned at this time.
+## [Events](https://we.riseup.net/a2cryptoparty/events)
+Link: https://we.riseup.net/a2cryptoparty/events
 
 ## About
 
