@@ -9,9 +9,9 @@ share: false
 ---
 ## Home
 ## [Events](https://we.riseup.net/a2cryptoparty/events)
-Link: https://we.riseup.net/a2cryptoparty/events
+Link: [https://we.riseup.net/a2cryptoparty/events](https://we.riseup.net/a2cryptoparty/events)
 
-## About
+## [About](https://we.riseup.net/a2cryptoparty/about)
 
 Cryptoparty Ann Arbor is a community of privacy-minded educators, techies, activists, and enthusiasts working to help you reclaim your privacy.
 We put people first, and see within technology the potential for liberatory social change.
